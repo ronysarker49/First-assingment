@@ -141,11 +141,11 @@
 }
 
 .offer .image {
-    width: 463px;
-    height: 463px;
+    width: 364.84px;
+    height: 364.84px;
     border: 15px solid rgb(255, 0, 0);
     border-radius: 400px;
-    padding: 45px;
+    padding: 40px;
 }
 
 .new-offer {
