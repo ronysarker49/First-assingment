@@ -1,9 +1,11 @@
+/* Header Styles */
 .header {
-    width: 1332px;
+    width: 1320px;
     height: 600px;
-    background-image: linear-gradient(to top, rgba(27, 27, 27, 0.52), rgba(19, 18, 18, 0.73)), url("../images/Banner\ Image.png");
+    background-image: linear-gradient(to top, rgba(66, 65, 65, 0.52), rgba(5, 5, 5, 0.73)), url("../images/Banner\ Image.png");
     background-repeat: no-repeat;
     margin: 50px auto;
+    border-radius: 18px;
 }
 
 
@@ -29,4 +31,49 @@
     height: 190px;
     padding: 200px 350px;
     position: absolute;
+}
+
+/* Main Section Styles */
+
+/* 65% offer styles */
+.offer-part {
+    width: 1600px;
+    height: 7335px;
+
+}
+
+.offer {
+    color: rgb(255, 0, 0);
+    width: 383px;
+    height: 107px;
+    margin: 0 500px 0 700px;
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.offer-img {
+    width: 802.9px;
+    height: 500px;
+    margin: 0 500px 0 550px;
+    border-top: 2px dashed gray;
+}
+
+.offer-description {
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 500px 0 700px;
+    padding-bottom: 15px;
+}
+
+.categories {
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 400px 0 600px;
+    padding-bottom: 15px;
 }
