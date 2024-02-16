@@ -1,0 +1,32 @@
+.header {
+    width: 1332px;
+    height: 600px;
+    background-image: linear-gradient(to top, rgba(27, 27, 27, 0.52), rgba(19, 18, 18, 0.73)), url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
+
+
+.banner-sub-title {
+    color: white;
+    position: absolute;
+    width: 259px;
+    height: 40px;
+    padding: 170px 530px 380px 530px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.banner-title {
+    color: white;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    width: 632px;
+    height: 190px;
+    padding: 200px 350px;
+    position: absolute;
+}
